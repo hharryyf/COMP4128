@@ -1,5 +1,5 @@
 # COMP4128
-codes for COMP4128 in 19T3
+codes for COMP4128 in 19T3, I got full mark for the course and won the CSE COMP4128 prize for 2019.
 
 Week 1: Observations, all of the problems are very simple and solvable within 20 minutes
 
